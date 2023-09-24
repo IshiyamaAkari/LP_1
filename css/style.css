@@ -9,7 +9,6 @@ body {
   color: #000;
   font-family: 'Noto Sans JP', sans-serif;
   font-weight: 400;
-  max-width:1440px;
 }
 .top{
   background-image: url(../img/fv-bg.jpg);
@@ -20,7 +19,7 @@ body {
   position: relative;
 }
 .top-wrap{
-  width:580px;
+  width:500px;
   position: absolute;
   left: 103px;
   top: 183px;
@@ -208,7 +207,6 @@ body {
   width: 170px;
   margin-top: 120px;
 }
-
 .voice-wrap{
   width:900px;
   margin:40px auto 0;
